@@ -1,1 +1,1 @@
-# tugas_06_golang
+# tugas-06-golang
